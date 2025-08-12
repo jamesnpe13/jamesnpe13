@@ -1,10 +1,11 @@
 # 👋 About Me
 
-Hi, I’m **James Elazegui** — a passionate **Fullstack Web & App Developer** from New Zealand.  
-I build fast, secure, and user-friendly applications, from concept to deployment.  
-My work spans **frontend, backend, cross-platform development, and design**, with a focus on clean code, performance, and great user experiences.
+Hi, I’m **James Elazegui** — a **Frontend Web Developer** with expertise in **UX/UI** and a background in **digital and interface design**.  
+I specialize in building modern, responsive, and engaging web applications that balance aesthetic appeal with functional precision.  
 
-I enjoy experimenting with new technologies, contributing to meaningful projects, and solving real-world problems through code.
+I create seamless user experiences with clean, maintainable code, while also developing APIs and backend integrations to power dynamic, data-driven apps.  
+
+My main focus is crafting **web applications** that are fast, intuitive, and visually polished — from concept to deployment. I enjoy turning design concepts into fully functional products, optimizing performance, and ensuring every detail works flawlessly across devices.
 
 ---
 
@@ -64,5 +65,3 @@ I enjoy experimenting with new technologies, contributing to meaningful projects
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-elazegui-4aba48246/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameselazegui21@gmail.com)
-
-
